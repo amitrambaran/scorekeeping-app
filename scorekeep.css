@@ -1,0 +1,17 @@
+.winner{
+    color: green;
+}
+
+.container{
+    margin: auto;
+    text-align: center;
+}
+
+input{
+    display: block;
+    margin: auto;
+}
+
+#scoreboard{
+    font-size: 20em;
+}
